@@ -3,4 +3,7 @@ On FCC
 var myStr = '<a href="http://www.example.com" target="_blank">Link</a>';
 
 Escape Sequences in Strings
-var myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; 
+var myStr = "FirstLine\n\t\\SecondLine\nThirdLine";
+
+Concatenating Strings with Plus Operator
+var myStr = "This is the start."  +  " This is the end."; 
