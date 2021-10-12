@@ -1,0 +1,1 @@
+var myList = [[ "Ice cream", 2], ['Milk', 4], ['Rice', 8], ['Toilette paper', 2], ['Juice', 2]];
